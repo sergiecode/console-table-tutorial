@@ -1,4 +1,4 @@
-![enter image description here](https://raw.githubusercontent.com/sergiecode/console-table-tutorial/master/console-table-tutorial.jpg)
+![Como usar el metodo console table en javascript](https://raw.githubusercontent.com/sergiecode/console-table-tutorial/master/console-table-tutorial.jpg)
 
 
 # Tutorial sobre `console.table` de JavaScript
